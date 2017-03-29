@@ -6,7 +6,8 @@ public class NewClass {
 	public void m(){
 		
 		System.out.println("hellow");
-		
+		System.out.println("hallow2");
+		System.out.println("hallow3");
 	}
 	
 	
